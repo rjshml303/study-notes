@@ -9,7 +9,7 @@ Welcome to the **Study Notes** repository! This repository contains helpful note
 2. NumPy
 3. Pandas
 4. Data Analysis
-5. (Add more as you go)
+5. (I'll add more once watch videos)
 
 ## 📂 Folder Structure
 
