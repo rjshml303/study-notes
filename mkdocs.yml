@@ -1,0 +1,12 @@
+site_name: My Study Notes
+theme:
+  name: material
+
+plugins:
+  - search
+  - awesome-pages
+
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
